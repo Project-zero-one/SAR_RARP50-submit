@@ -14,19 +14,12 @@ To run the SAR-RARP50 code you need to either pull a docker image from dockerhub
 ### Pulling a docker image
 
 We recommend using a docker container to run the SAR-RARP50 toolkit code.
-Currently, we only support building this docker image from source or pulling
-our docker image from dockerhub:
+Currently, we only support pulling our docker image from dockerhub:
 
 Clone this repository and cd into it
 
 ```bash
 git clone https://github.com/Project-zero-one/SAR_RARP50-evaluation && cd ./SAR_RARP50-evaluation
-```
-
-Build the docker image from source.
-
-```bash
-docker image build -t yumion7488/sar-rarp50 .
 ```
 
 Pull the docker image from dockerhub
