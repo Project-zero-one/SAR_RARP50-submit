@@ -1,0 +1,13 @@
+matplotlib
+numpy
+packaging
+prettytable
+timm
+albumentations
+pillow>=8.3.2
+imageio-ffmpeg
+decord
+tensorboard
+optuna
+pandas
+einops
