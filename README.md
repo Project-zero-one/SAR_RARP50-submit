@@ -19,7 +19,7 @@ Currently, we only support pulling our docker image from dockerhub:
 Clone this repository and cd into it
 
 ```bash
-git clone https://github.com/Project-zero-one/SAR_RARP50-evaluation && cd ./SAR_RARP50-evaluation
+git clone https://github.com/Project-zero-one/SAR_RARP50-submit && cd ./SAR_RARP50-submit
 ```
 
 Pull the docker image from dockerhub
